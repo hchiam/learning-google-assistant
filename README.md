@@ -1,4 +1,4 @@
-This is a minimal version of <a href="https://glitch.com/~actions-on-google-api-ai-boilerplate" target="_blank">https://glitch.com/~actions-on-google-api-ai-boilerplate</a>
+This is a minimal version of <a href="https://glitch.com/edit/#!/actions-on-google-api-ai-boilerplate" target="_blank">https://glitch.com/edit/#!/actions-on-google-api-ai-boilerplate</a>
 
 Only 2 or 3 essential files: **server.js** and **package.json**. And *LICENCE.md*.
 
