@@ -1,0 +1,1 @@
+This is a minimal version of <a href="https://glitch.com/~actions-on-google-api-ai-boilerplate" target="_blank">https://glitch.com/~actions-on-google-api-ai-boilerplate</a>
