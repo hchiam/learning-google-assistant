@@ -3,6 +3,8 @@ This is a minimal version of <a href="https://glitch.com/edit/#!/actions-on-goog
 
 Only 2 or 3 really essential files: **server.js** and **package.json**. And *LICENCE.md*.
 
+Go to <a href="https://glitch.com/edit/#!/minimal-node-server-for-google-assistant?path=README.md:1:0" target="_blank">https://glitch.com/edit/#!/minimal-node-server-for-google-assistant?path=README.md:1:0</a> and remix it to get your own copy to tailor for your app's webhook.
+
 Build a Google Assistant app using Actions on Google, API.AI, and a Glitch-based Node.js webhook server.
 
 Also see my Google Assistant app project: <a href="https://github.com/hchiam/mental-temperature-converter" target="_blank">https://github.com/hchiam/mental-temperature-converter</a>
