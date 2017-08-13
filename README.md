@@ -1,3 +1,6 @@
+# Learning Google Voice Assistant
+
+## Minimal Node Server for Google Voice Assistant
 
 This is a minimal version of <a href="https://glitch.com/edit/#!/actions-on-google-api-ai-boilerplate" target="_blank">https://glitch.com/edit/#!/actions-on-google-api-ai-boilerplate</a> ; I've removed files as long as it still gives a response to API.AI, and I've trimmed down and rephrased things in server.js to make it shorter and hopefully easier to see the bare bones/flow.
 
