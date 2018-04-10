@@ -16,4 +16,8 @@ Build a Google Assistant app using Actions on Google, API.AI, and a Glitch-based
 
 ## Example Use:
 
-Also see my Google Assistant app project: <a href="https://github.com/hchiam/mental-temperature-converter" target="_blank">https://github.com/hchiam/mental-temperature-converter</a>
+Also see my Google Assistant app projects: 
+
+<a href="https://github.com/hchiam/mental-temperature-converter" target="_blank">https://github.com/hchiam/mental-temperature-converter</a>
+
+<a href="https://github.com/hchiam/code-tutor" target="_blank">https://github.com/hchiam/code-tutor</a>
